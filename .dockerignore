@@ -5,6 +5,9 @@
 .gitignore
 .dockerignore
 
+#Ignorar historico
+.history
+
 # Ignorar o ambiente virtual do Python
 venv/
 

@@ -1,0 +1,23 @@
+# Ignorar o diretório do Git
+.git
+
+# Ignorar arquivos de configuração do Git e do Docker
+.gitignore
+.dockerignore
+
+# Ignorar o ambiente virtual do Python
+venv/
+
+# Ignorar caches e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar o banco de dados SQLite local e seu journal
+escola.db
+escola.db-journal
+
+# Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
